@@ -1,5 +1,6 @@
 ### Alatoo Ecommerce
 #### The project was build using Django Framework by Bolot Zhusupekov, Aida Osmanalieva, and Medina Isabek kyzy
+#### Deploy - [Here](https://alatoo-ecommerce.herokuapp.com/)
 ### Two Factor Authentication
 1. Sign Up
 
